@@ -10,10 +10,10 @@
 
 ## 2. Устанавливаем программы
 
-- **Ubuntu Tweaks**
-- **Chromium**
-- **ICQ**
-- **WPS Office**
+- **Ubuntu Tweaks** - из центра приложений
+- **Chromium** - из центра приложений
+- **ICQ** - из центра приложений
+- **WPS Office** - из центра приложений 
 - **JivoSite** - запускаем в вебе
 - **Remmina** - Для удаленного подключения
 
@@ -32,7 +32,7 @@
 
         https://www.microsip.org/download/MicroSIP-Lite-3.19.30.exe
 
-- **SMB Client**
+- **SMB Client** - для подключения сетевого диска
   
         sudo apt install --install-recommends winehq-stable
 
