@@ -22,3 +22,6 @@ Elementary OS - это наиболее красивый, визуально о�
 ## Pixel Saver 
 
 
+
+## Panel OSD 
+https://extensions.gnome.org/extension/708/panel-osd/
