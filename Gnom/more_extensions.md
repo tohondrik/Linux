@@ -1,5 +1,23 @@
 # Дополнительные расширения для DE Gnome.
 
+## Dash to panel
+
+https://extensions.gnome.org/extension/1160/dash-to-panel/
+
+Нижняя панель на манер Windows
+
+## Arc menu
+
+https://extensions.gnome.org/extension/1228/arc-menu/
+
+панель как в windows 10
+
+## TopIconFix 
+
+https://extensions.gnome.org/extension/1674/topiconsfix/
+
+Убирает второй трей от Wine
+
 ## Remove Dropdown Arrows
 https://extensions.gnome.org/extension/800/remove-dropdown-arrows/
 
