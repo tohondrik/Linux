@@ -39,4 +39,5 @@ https://extensions.gnome.org/extension/1073/transparent-osd/
 ## Transparent Notification
 
 https://extensions.gnome.org/extension/1080/transparent-notification/
+
 ![](https://extensions.gnome.org/extension-data/screenshots/screenshot_1080_r8KE6VW.png)
