@@ -10,11 +10,16 @@
 
 ## 2. Устанавливаем программы
 
-- **Ubuntu Tweaks** - из центра приложений
-- **Chromium** - из центра приложений
-- **ICQ** - из центра приложений
-- **WPS Office** - из центра приложений 
-- **JivoSite** - запускаем в вебе
+### Из центра приложений:
+
+- **Ubuntu Tweaks**
+- **Chromium**
+- **ICQ**
+- **WPS Office**
+- **JivoSite**
+
+### Отдельно
+
 - **Remmina** - Для удаленного подключения (RDP, SSH)
 
 		$ sudo apt-add-repository ppa:remmina-ppa-team/remmina-next
