@@ -15,11 +15,11 @@
 - **ICQ** - из центра приложений
 - **WPS Office** - из центра приложений 
 - **JivoSite** - запускаем в вебе
-- **Remmina** - Для удаленного подключения
+- **Remmina** - Для удаленного подключения (RDP, SSH)
 
-	$ sudo apt-add-repository ppa:remmina-ppa-team/remmina-next
-	$ sudo apt update
-	$ sudo apt install remmina remmina-plugin-rdp remmina-plugin-secret	
+		$ sudo apt-add-repository ppa:remmina-ppa-team/remmina-next
+		$ sudo apt update
+		$ sudo apt install remmina remmina-plugin-rdp remmina-plugin-secret	
 
 - **Zoiper** - VoIP softphone  
 Качаем и устанавливаем с сайта: https://www.zoiper.com/en/voip-softphone/download/current
