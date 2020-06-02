@@ -20,17 +20,9 @@
 	$ sudo apt-add-repository ppa:remmina-ppa-team/remmina-next
 	$ sudo apt update
 	$ sudo apt install remmina remmina-plugin-rdp remmina-plugin-secret	
-	
-- **WineHQ**
 
-        $ sudo dpkg --add-architecture i386 
-        $ wget -O - https://dl.winehq.org/wine-builds/winehq.key | sudo apt-key add -
-        $ sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ focal main'
-        $ sudo apt install --install-recommends winehq-stable
-
-- **MicroSip** (Устанавливать только после WineHQ)
-
-        https://www.microsip.org/download/MicroSIP-Lite-3.19.30.exe
+- **Zoiper** - VoIP softphone
+Качаем и устанавливаем с сайта: https://www.zoiper.com/en/voip-softphone/download/current
 
 - **SMB Client** - для подключения сетевого диска
   
@@ -52,26 +44,12 @@
     # server string is the equivalent of the NT Description field
         server string = %h server (Samba, Ubuntu)
 
-## 3. Установка расширений
+## 3. Установка расширений (если необходимо)
 
-    https://linuxconfig.org/how-to-install-gnome-shell-extensions-on-ubuntu-20-04-focal-fossa-linux-desktop
+Установку расширений лучше всего производить из браузера Firefox
 
-**Пакет расширений** 
+[Список]https://github.com/tohondrik/Linux/blob/master/Gnom/more_extensions.md некоторых расширений с их описанием и ссылками.
 
-    sudo apt install gnome-shell-extensions
-
-**Dash to panel** - панель как в windows 10
-
-    https://extensions.gnome.org/extension/1160/dash-to-panel/
-
-**Arc menu** - как пуск в windows
-
-    https://extensions.gnome.org/extension/1228/arc-menu/
-
-**TopIconFix** - убирает второй трей от Wine
-
-    https://extensions.gnome.org/extension/1674/topiconsfix/
-    
 ## 4. Дополнительные действия
 
 ### Установить медиа-кодеки для воспроизведения MP3, MPEG4 и других медиа-файлов
