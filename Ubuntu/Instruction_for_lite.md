@@ -21,7 +21,7 @@
 	$ sudo apt update
 	$ sudo apt install remmina remmina-plugin-rdp remmina-plugin-secret	
 
-- **Zoiper** - VoIP softphone
+- **Zoiper** - VoIP softphone  
 Качаем и устанавливаем с сайта: https://www.zoiper.com/en/voip-softphone/download/current
 
 - **SMB Client** - для подключения сетевого диска
@@ -46,9 +46,9 @@
 
 ## 3. Установка расширений (если необходимо)
 
-Установку расширений лучше всего производить из браузера Firefox
+Установку расширений лучше всего производить из браузера Firefox  
 
-[Список]https://github.com/tohondrik/Linux/blob/master/Gnom/more_extensions.md некоторых расширений с их описанием и ссылками.
+[Список](https://github.com/tohondrik/Linux/blob/master/Gnom/more_extensions.md) некоторых расширений с их описанием и ссылками.
 
 ## 4. Дополнительные действия
 
