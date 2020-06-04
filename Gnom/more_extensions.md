@@ -59,3 +59,8 @@ https://extensions.gnome.org/extension/1073/transparent-osd/
 https://extensions.gnome.org/extension/1080/transparent-notification/
 
 ![](https://extensions.gnome.org/extension-data/screenshots/screenshot_1080_r8KE6VW.png)
+
+## KStatusNotifierItem/AppIndicator Support
+https://extensions.gnome.org/extension/615/appindicator-support/
+
+Добавляет отображение иконок в трее (В Ubuntu по умолчанию стоит свой и это расширение не нужно)
