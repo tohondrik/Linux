@@ -1,0 +1,17 @@
+[/]
+appicon-margin=4
+hotkeys-overlay-combo='TEMPORARILY'
+isolate-workspaces=true
+leftbox-padding=-1
+location-clock='STATUSRIGHT'
+show-appmenu=false
+show-show-apps-button=false
+status-icon-padding=-1
+trans-dynamic-anim-target=1.0
+trans-panel-opacity=0.40000000000000002
+trans-use-custom-opacity=true
+trans-use-dynamic-opacity=false
+tray-padding=4
+tray-size=0
+window-preview-show-title=true
+window-preview-title-font-color='#dddddd'
