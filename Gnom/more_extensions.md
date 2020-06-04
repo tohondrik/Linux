@@ -45,7 +45,7 @@ https://extensions.gnome.org/extension/1128/hide-activities-button/
 ## Panel OSD 
 https://extensions.gnome.org/extension/708/panel-osd/  
 
-Позволяет настроить песто появления уведомлений. По умоланию появляется всегда вверху в центре
+Позволяет настроить место появления уведомлений. По умоланию появляется всегда вверху в центре
 
 
 ## Transparent OSD
