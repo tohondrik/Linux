@@ -1,16 +1,18 @@
-# Дополнительные расширения для DE Gnome.
+# Расширения для DE Gnome.
 
 ## Dash to panel
 
 https://extensions.gnome.org/extension/1160/dash-to-panel/
 
-Нижняя панель на манер Windows
+Нижняя панель на манер Windows  
+[Конфиг](https://github.com/tohondrik/Linux/blob/master/Gnom/dash_to_panel_config) для нее
 
 ## Arc menu
 
 https://extensions.gnome.org/extension/1228/arc-menu/
 
-панель как в windows 10
+Панель как в windows 10
+[Конфиг](https://github.com/tohondrik/Linux/blob/master/Gnom/dash_to_panel_config) для нее
 
 ## TopIconFix 
 
